@@ -1,4 +1,6 @@
-Dynamic Quiz web application that displays the question and options and shows the score according to the number of questions.
+Dynamic Quiz web application that displays multiple choice questions and options.
+Shows the score according to the number of questions.
+Questions can be dynamically changed.
 
 
 ![Quiz-1](https://github.com/SaurabhP91/quiz-UM/assets/89243008/595e68ed-8810-4953-ae2d-e33b8f23df02)
